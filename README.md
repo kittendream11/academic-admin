@@ -1,4 +1,4 @@
-# Next.js CRUD Admin Website
+# Academic Admin - Next.js CRUD Admin Website
 
 Website admin dengan fitur CRUD (Create, Read, Update, Delete) menggunakan Next.js.
 
